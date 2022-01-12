@@ -8,3 +8,13 @@
 ```
 >npm i -g create-react-app
 ```
+5. create folder where you want
+6. create react app which name is 'react-memo'
+```
+>create-react-app react-memo
+```
+7. start react app
+```
+>cd react-memo
+>npm start
+```
